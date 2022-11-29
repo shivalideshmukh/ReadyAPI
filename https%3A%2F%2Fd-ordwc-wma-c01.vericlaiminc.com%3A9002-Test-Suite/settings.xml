@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="c42c3694-bd09-4303-8b77-67a3ac04c9e6" name="https://d-ordwc-wma-c01.vericlaiminc.com:9002 Test Suite" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="c42c3694-bd09-4303-8b77-67a3ac04c9e6fileName">https%3A%2F%2Fd-ordwc-wma-c01.vericlaiminc.com%3A9002-Test-Suite</con:setting></con:settings><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>
